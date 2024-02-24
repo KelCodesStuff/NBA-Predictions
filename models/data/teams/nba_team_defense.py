@@ -1,0 +1,36 @@
+
+
+# List of dictionaries containing team names and their defense ratings
+# Source https://www.nba.com/stats/teams/defense?dir=A&sort=DEF_RATING
+teams_defense = [
+    {"team_name": "Atlanta Hawks", "defense_rating": 29},
+    {"team_name": "Boston Celtics", "defense_rating": 3},
+    {"team_name": "Brooklyn Nets", "defense_rating": 21},
+    {"team_name": "Charlotte Hornets", "defense_rating": 30},
+    {"team_name": "Chicago Bulls", "defense_rating": 16},
+    {"team_name": "Cleveland Cavaliers", "defense_rating": 2},
+    {"team_name": "Dallas Mavericks", "defense_rating": 19},
+    {"team_name": "Denver Nuggets", "defense_rating": 11},
+    {"team_name": "Detroit Pistons", "defense_rating": 28},
+    {"team_name": "Golden State Warriors", "defense_rating": 20},
+    {"team_name": "Houston Rockets", "defense_rating": 6},
+    {"team_name": "Indiana Pacers", "defense_rating": 26},
+    {"team_name": "Los Angeles Clippers", "defense_rating": 13},
+    {"team_name": "Los Angeles Lakers", "defense_rating": 15},
+    {"team_name": "Memphis Grizzlies", "defense_rating": 10},
+    {"team_name": "Miami Heat", "defense_rating": 8},
+    {"team_name": "Milwaukee Bucks", "defense_rating": 17},
+    {"team_name": "Minnesota Timberwolves", "defense_rating": 1},
+    {"team_name": "New Orleans Pelicans", "defense_rating": 7},
+    {"team_name": "New York Knicks", "defense_rating": 9},
+    {"team_name": "Oklahoma City Thunder", "defense_rating": 4},
+    {"team_name": "Orlando Magic", "defense_rating": 5},
+    {"team_name": "Philadelphia 76ers", "defense_rating": 12},
+    {"team_name": "Phoenix Suns", "defense_rating": 14},
+    {"team_name": "Portland Trail Blazers", "defense_rating": 22},
+    {"team_name": "Sacramento Kings", "defense_rating": 18},
+    {"team_name": "San Antonio Spurs", "defense_rating": 23},
+    {"team_name": "Toronto Raptors", "defense_rating": 24},
+    {"team_name": "Utah Jazz", "defense_rating": 25},
+    {"team_name": "Washington Wizards", "defense_rating": 27},
+]
